@@ -1,0 +1,1 @@
+Allows to watch text videos
